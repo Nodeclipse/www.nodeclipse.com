@@ -1,0 +1,8 @@
+name: Nodeclipse
+description: Nodeclipse site prototype
+url: http://prototype.nodeclipse.com
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
+paginate: 5

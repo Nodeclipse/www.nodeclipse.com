@@ -1,4 +1,4 @@
-www.nodeclipse.com
-==================
 
-We got this name. What can we do with it. Ideas?
+name: Nodeclipse
+description: Nodeclipse site prototype
+url: http://prototype.nodeclipse.com
